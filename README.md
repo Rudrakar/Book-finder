@@ -62,7 +62,7 @@ Start the development server:
 
 bash
 Copy code
-npm start
+npm run dev
 Open http://localhost:3000 in your browser.
 
 🎥 Demo
